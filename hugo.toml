@@ -73,8 +73,8 @@ textes originaux chinois, aujourd'hui dans le domaine public.
     minMatchCharLength = 2
 
   [params.support]
-    # À REMPLACER par votre lien PayPal (ex. https://www.paypal.com/paypalme/votre-pseudo)
-    paypalUrl = "https://www.paypal.com/paypalme/username"
+    # Lien PayPal encodé dans le QR code (static/images/qr-paypal.png)
+    paypalUrl = "https://www.paypal.com/qrcodes/managed/8dbaf03a-11ad-4795-9285-5525a927444f?utm_source=consweb_more"
 
 [markup]
   [markup.goldmark]
