@@ -62,6 +62,11 @@ body {
    Accueil : image d'en-tête (photo historique encadrée)
    ============================================================ */
 
+/* Cohérence des titres : l'accueil reprend la taille des pages de contenu */
+.first-entry.home-info .entry-header h1 {
+    font-size: 40px;
+}
+
 .home-hero {
   display: flex;
   gap: 2.2rem;
