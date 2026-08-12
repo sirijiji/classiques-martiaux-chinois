@@ -27,6 +27,7 @@
         {{ .Content | $.Page.RenderString $opts }}
     </div>
     {{- end }}
+    {{ partial "support.html" . }}
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>

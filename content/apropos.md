@@ -37,6 +37,10 @@ conservé au Musée du Palais de Pékin. L'œuvre est tombée dans le **domaine
 public** et est diffusée via Wikimedia Commons. Le logo du site reprend le
 symbole du taiji (taijitu) dans sa version rouge sceau.
 
+## Soutenir le projet
+
+{{< support >}}
+
 ## Contact
 
 Pour signaler une erreur de traduction, proposer un texte ou demander une

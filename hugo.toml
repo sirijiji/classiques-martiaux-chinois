@@ -72,6 +72,10 @@ textes originaux chinois, aujourd'hui dans le domaine public.
     threshold = 0.4
     minMatchCharLength = 2
 
+  [params.support]
+    # À REMPLACER par votre lien PayPal (ex. https://www.paypal.com/paypalme/votre-pseudo)
+    paypalUrl = "https://www.paypal.com/paypalme/username"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
