@@ -114,6 +114,28 @@ body {
   }
 }
 
+/* ============================================================
+   Mobile : en-tête — titre à gauche, interrupteur thème à droite
+   ============================================================ */
+
+@media (max-width: 768px) {
+  .logo {
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  .logo a {
+    flex: 1 1 auto;
+    min-width: 0; /* laisse le texte se replier à l'intérieur du lien */
+    font-size: 18px;
+    line-height: 1.2; /* évite l'interligne de 60px hérité de l'en-tête */
+  }
+  .logo-switches {
+    flex: 0 0 auto;
+    min-height: 0; /* neutralise le étirement vertical parasite */
+    align-items: center;
+  }
+}
+
 /* Pied de page discret */
 .footer {
   font-size: 0.85em;
