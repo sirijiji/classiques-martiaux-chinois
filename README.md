@@ -1,93 +1,91 @@
-# Classiques des arts martiaux chinois
+# Chinese Martial Arts Classics (in French)
 
-Traductions en français de manuels classiques chinois des arts martiaux :
-**taiji quan**, **xingyi**, **bagua**, armes traditionnelles (sabre, épée,
-bâton, lance), traités théoriques et recueils d'exercices.
+French translations of classical Chinese martial arts manuals:
+**taiji quan**, **xingyi**, **bagua**, traditional weapons (saber, sword,
+staff, spear), theoretical treatises and exercise collections.
 
-📖 Site publié : <https://sirijiji.github.io/classiques-martiaux-chinois/>
+📖 Live site: <https://sirijiji.github.io/classiques-martiaux-chinois/>
 
 ---
 
-## À propos
+## About
 
-Ce site publie des **traductions originales en français** de classiques chinois
-des arts martiaux, réalisées directement à partir des **textes chinois tombés
-dans le domaine public** (ouvrages du XIXe siècle et antérieurs). Chaque article
-présente le texte chinois en regard de la traduction française, avec les sources
-et des notes.
+This site publishes **original French translations** of Chinese martial arts
+classics, made directly from **public-domain Chinese source texts** (works from
+the 19th century and earlier). Every article shows the Chinese text alongside
+the French translation, with sources and notes.
 
-## Fonctionnalités
+## Features
 
-- Traductions originales à partir des sources chinoises (jamais de reprise d'autres traductions)
-- Texte chinois et traduction française en vis-à-vis
-- Sommaire automatique sur chaque article, recherche plein texte, flux RSS
-- Mode clair / sombre, mise en page imprimable
-- Thème éditorial personnalisé : photo historique de Guan Yu (domaine public), logo taijitu
+- Original translations from Chinese sources (never derived from other translations)
+- Chinese text and French translation side by side
+- Automatic table of contents, full-text search, RSS feed
+- Light / dark mode, print-friendly layout
+- Custom editorial theme: historical Guan Yu portrait (public domain), taijitu logo
 
-## Pile technique
+## Tech stack
 
-| Élément      | Choix                                    |
+| Element      | Choice                                   |
 |--------------|------------------------------------------|
-| Générateur   | [Hugo](https://gohugo.io) (extended)     |
-| Thème        | [PaperMod](https://github.com/adityatelange/hugo-PaperMod) |
-| Hébergement  | GitHub Pages (déploiement via GitHub Actions) |
-| Contenu      | Markdown (un fichier par article)        |
+| Generator    | [Hugo](https://gohugo.io) (extended)     |
+| Theme        | [PaperMod](https://github.com/adityatelange/hugo-PaperMod) |
+| Hosting      | GitHub Pages (deployed via GitHub Actions) |
+| Content      | Markdown (one file per article)          |
 
-## Structure du dépôt
+## Repository layout
 
 ```
 content/
-  posts/            articles (un fichier .md par traduction)
-  apropos.md        page « À propos »
-  archives.md       page Archives
-  contact.md        page Contact
+  posts/            articles (one .md file per translation)
+  apropos.md        "About" page (French)
+  archives.md       Archives page
+  contact.md        Contact page
 layouts/
-  _partials/        surcharge de l'accueil (image d'en-tête)
-  partials/         balises de partage social (og:image)
-assets/css/extended/custom.css   habillage personnalisé
-static/images/      images (domaine public)
-themes/PaperMod/    thème (vendored)
+  _partials/        homepage override (header image)
+  partials/         social share tags (og:image)
+assets/css/extended/custom.css   custom styling
+static/images/      images (public domain)
+themes/PaperMod/    theme (vendored)
 ```
 
-## Ajouter un article
+## Adding an article
 
-1. Créer un fichier `content/posts/<slug>.md` :
+1. Create `content/posts/<slug>.md`:
 
    ```markdown
    ---
-   title: "Titre de la traduction"
+   title: "Translation title"
    date: 2026-08-12
-   description: "Résumé de l'article"
+   description: "Article summary"
    categories: ["Taiji quan"]
    tags: ["tag1", "tag2"]
    ---
 
-   Corps de l'article, texte chinois en regard.
+   Article body, Chinese text alongside.
    ```
 
-2. Pousser sur `main` — le déploiement est automatique (~1 minute).
+2. Push to `main` — deployment is automatic (~1 minute).
 
-## Développement local
+## Local development
 
 ```bash
 hugo server -D        # http://localhost:1313
-hugo --minify         # génère le site statique dans public/
+hugo --minify         # build static site into public/
 ```
 
-## Déploiement
+## Deployment
 
-Toute poussée sur `main` déclenche le workflow
-`.github/workflows/hugo.yml` : construction Hugo + publication sur
-GitHub Pages.
+Any push to `main` triggers the `.github/workflows/hugo.yml` workflow:
+Hugo build + publish to GitHub Pages.
 
-## Crédits & licence
+## Credits & license
 
-- **Images** : portrait de Guan Yu (détail de *Guan Yu capture le général Pang
-  De*, Shang Xi, dynastie Ming, XVe siècle — Musée du Palais, Pékin) et symbole
-  du taiji, tous deux dans le **domaine public** (Wikimedia Commons).
-- **Traductions** : travaux originaux réalisés pour ce site à partir de sources
-  chinoises dans le domaine public.
-- **Thème** : [PaperMod](https://github.com/adityatelange/hugo-PaperMod), licence MIT.
-- Ce projet s'inspire de la forme des sites de traduction anglophones comme
-  *Brennan Translation* (Paul Brennan) — référence incontournable pour les
-  textes originaux. Les traductions ici publiées sont indépendantes.
+- **Images**: Guan Yu portrait (detail of *Guan Yu Captures General Pang De*,
+  Shang Xi, Ming dynasty, 15th century — Palace Museum, Beijing) and the taiji
+  symbol, both **public domain** (Wikimedia Commons).
+- **Translations**: original works created for this site from public-domain
+  Chinese sources.
+- **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod), MIT license.
+- This project takes its form from English-language translation sites such as
+  *Brennan Translation* (Paul Brennan) — an essential reference for the source
+  texts. The translations published here are independent works.
