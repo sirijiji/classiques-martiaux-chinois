@@ -58,6 +58,62 @@ body {
   letter-spacing: 0.03em;
 }
 
+/* ============================================================
+   Accueil : image d'en-tête (photo historique encadrée)
+   ============================================================ */
+
+.home-hero {
+  display: flex;
+  gap: 2.2rem;
+  align-items: center;
+}
+
+.home-hero-figure {
+  margin: 0;
+  flex: 0 0 250px;
+  padding: 10px;
+  border: 1px solid var(--tertiary);
+  background: var(--entry);
+  position: relative;
+}
+
+.home-hero-figure::after {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border: 1px solid color-mix(in srgb, var(--tertiary) 45%, transparent);
+  pointer-events: none;
+}
+
+.home-hero-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.home-hero-figure figcaption {
+  font-size: 0.78em;
+  color: var(--secondary);
+  margin-top: 0.6em;
+  text-align: center;
+  line-height: 1.45;
+}
+
+.home-hero-text .entry-header {
+  margin-bottom: 0.75em;
+}
+
+@media (max-width: 720px) {
+  .home-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+  .home-hero-figure {
+    flex-basis: auto;
+    max-width: 220px;
+  }
+}
+
 /* Pied de page discret */
 .footer {
   font-size: 0.85em;

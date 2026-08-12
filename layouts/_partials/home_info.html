@@ -1,0 +1,34 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    {{- if .Image }}
+    <div class="home-hero">
+        <figure class="home-hero-figure">
+            <img class="home-hero-img" src="{{ .Image | relURL }}" alt="{{ with .ImageAlt }}{{ . }}{{ else }}Yang Chengfu pratiquant le taiji quan{{ end }}" loading="eager">
+            {{- with .ImageCaption }}
+            <figcaption>{{ . }}</figcaption>
+            {{- end }}
+        </figure>
+        <div class="home-hero-text">
+            <header class="entry-header">
+                <h1>{{ .Title | markdownify }}</h1>
+            </header>
+            <div class="entry-content md-content">
+                {{ $opts := dict "display" "block" }}
+                {{ .Content | $.Page.RenderString $opts }}
+            </div>
+        </div>
+    </div>
+    {{- else }}
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content md-content">
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
+    </div>
+    {{- end }}
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

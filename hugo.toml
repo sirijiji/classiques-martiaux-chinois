@@ -1,5 +1,5 @@
 baseURL = "https://sirijiji.github.io/classiques-martiaux-chinois/"
-languageCode = "fr-FR"
+locale = "fr-FR"
 title = "Classiques des arts martiaux chinois"
 theme = "PaperMod"
 defaultContentLanguage = "fr"
@@ -49,13 +49,20 @@ Traductions en français de manuels classiques chinois des arts martiaux
 (taiji quan, xingyi, bagua, armes traditionnelles), réalisées à partir des
 textes originaux chinois, aujourd'hui dans le domaine public.
 """
+    Image = "/images/yang-chengfu-restored.jpg"
+    ImageAlt = "Yang Chengfu, maître de taiji quan, dans une posture classique"
+    ImageCaption = "Yang Chengfu (1883–1936), maître de taiji quan — photographie historique, domaine public"
 
   [params.assets]
     disableHLJS = true
+    favicon = "images/taijitu-red.svg"
+    favicon16x16 = "images/taijitu-red.svg"
+    favicon32x32 = "images/taijitu-red.svg"
 
   [params.label]
     text = "Classiques des arts martiaux chinois"
-    iconHeight = 35
+    icon = "images/taijitu-red.svg"
+    iconHeight = 32
 
   [params.fuseOpts]
     isCaseSensitive = false

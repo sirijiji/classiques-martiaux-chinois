@@ -27,6 +27,13 @@ qui reste une référence incontournable pour les textes originaux. Nos traducti
 sont toutefois des travaux indépendants, réalisés à partir des sources chinoises
 dans le domaine public, et non des reprises d'autres traductions.
 
+## Images
+
+La photographie d'en-tête représente le maître **Yang Chengfu** (1883–1936),
+figure majeure du taiji quan style Yang. Il s'agit d'une photographie historique
+tombée dans le **domaine public**, diffusée via Wikimedia Commons. Le logo du
+site reprend le symbole du taiji (taijitu) dans sa version rouge sceau.
+
 ## Contact
 
 Pour signaler une erreur de traduction, proposer un texte ou demander une
