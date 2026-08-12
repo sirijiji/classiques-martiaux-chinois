@@ -49,9 +49,9 @@ Traductions en français de manuels classiques chinois des arts martiaux
 (taiji quan, xingyi, bagua, armes traditionnelles), réalisées à partir des
 textes originaux chinois, aujourd'hui dans le domaine public.
 """
-    Image = "/images/yang-chengfu-restored.jpg"
-    ImageAlt = "Yang Chengfu, maître de taiji quan, dans une posture classique"
-    ImageCaption = "Yang Chengfu (1883–1936), maître de taiji quan — photographie historique, domaine public"
+    Image = "images/guan-yu-shangxi-ming.jpg"
+    ImageAlt = "Guan Yu (Guan Gong), saint des arts martiaux — détail d'un tableau de la dynastie Ming"
+    ImageCaption = "Guan Yu (关羽), saint des arts martiaux — détail du tableau de Shang Xi (商喜), dynastie Ming, XVe siècle — domaine public"
 
   [params.assets]
     disableHLJS = true

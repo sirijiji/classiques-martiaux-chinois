@@ -29,10 +29,13 @@ dans le domaine public, et non des reprises d'autres traductions.
 
 ## Images
 
-La photographie d'en-tête représente le maître **Yang Chengfu** (1883–1936),
-figure majeure du taiji quan style Yang. Il s'agit d'une photographie historique
-tombée dans le **domaine public**, diffusée via Wikimedia Commons. Le logo du
-site reprend le symbole du taiji (taijitu) dans sa version rouge sceau.
+L'image d'en-tête représente **Guan Yu** (关羽, v. 160–220), général de la fin
+des Han, divinisé en **Guan Gong** (关公), dieu de la guerre et saint des arts
+martiaux (*wusheng*, 武聖). Il s'agit d'un détail du tableau *Guan Yu capture le
+général Pang De* du peintre **Shang Xi** (商喜), dynastie Ming (XVe siècle),
+conservé au Musée du Palais de Pékin. L'œuvre est tombée dans le **domaine
+public** et est diffusée via Wikimedia Commons. Le logo du site reprend le
+symbole du taiji (taijitu) dans sa version rouge sceau.
 
 ## Contact
 
