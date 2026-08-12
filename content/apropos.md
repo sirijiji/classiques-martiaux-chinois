@@ -40,4 +40,4 @@ symbole du taiji (taijitu) dans sa version rouge sceau.
 ## Contact
 
 Pour signaler une erreur de traduction, proposer un texte ou demander une
-autorisation de reproduction, utilisez la page [Contact](/contact/).
+autorisation de reproduction, utilisez la page [Contact]({{< relref "/contact" >}}).
