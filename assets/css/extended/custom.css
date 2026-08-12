@@ -1,0 +1,76 @@
+/* ============================================================
+   Classiques des arts martiaux chinois — habillage éditorial
+   ============================================================ */
+
+:root {
+  --main-width: 860px;
+}
+
+/* Typographie éditoriale */
+body {
+  font-family: "Source Serif 4", "Source Serif Pro", "Georgia", "Times New Roman",
+    "Songti SC", "Noto Serif CJK SC", serif;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  font-family: "Source Serif 4", "Georgia", "Songti SC", serif;
+  letter-spacing: 0.01em;
+}
+
+/* Titre du site en petite capitale */
+.logo a {
+  letter-spacing: 0.06em;
+}
+
+/* Accent « rouge sceau » chinois */
+:root {
+  --tertiary: #9e2a2b;
+}
+.post-content a {
+  color: var(--tertiary);
+}
+.post-content a:hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Citations : texte chinois en regard de la traduction française */
+.post-content blockquote {
+  border-left: 3px solid var(--tertiary);
+  background: rgba(158, 42, 43, 0.04);
+  padding: 0.6em 1.2em;
+  margin: 1.2em 0;
+}
+
+.post-content blockquote p:first-child {
+  font-family: "Noto Serif CJK SC", "Songti SC", "Source Han Serif SC", serif;
+  font-size: 1.08em;
+  line-height: 1.9;
+  color: var(--secondary);
+  margin-bottom: 0.5em;
+}
+
+/* Métadonnées d'article */
+.post-meta {
+  font-size: 0.85em;
+  letter-spacing: 0.03em;
+}
+
+/* Pied de page discret */
+.footer {
+  font-size: 0.85em;
+  opacity: 0.85;
+}
+
+/* Impression : version papier lisible */
+@media print {
+  .nav, .share-buttons, .post-nav, .footer .menu, .back-to-top {
+    display: none !important;
+  }
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+}

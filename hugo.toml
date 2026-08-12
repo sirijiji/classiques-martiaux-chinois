@@ -1,0 +1,76 @@
+baseURL = "https://sirijiji.github.io/classiques-martiaux-chinois/"
+languageCode = "fr-FR"
+title = "Classiques des arts martiaux chinois"
+theme = "PaperMod"
+defaultContentLanguage = "fr"
+
+enableRobotsTXT = true
+enableEmoji = true
+pygmentsUseClasses = true
+
+[menu]
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
+  [[menu.main]]
+    identifier = "apropos"
+    name = "À propos"
+    url = "/apropos/"
+    weight = 3
+
+[params]
+  env = "production"
+  description = "Traductions en français de classiques chinois des arts martiaux : taiji quan, xingyi, bagua, bâton, sabre, épée et plus."
+  keywords = ["arts martiaux", "chinois", "taiji", "taïchi", "xingyi", "bagua", "traductions", "classiques"]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = false
+
+  [params.homeInfoParams]
+    Title = "Classiques des arts martiaux chinois"
+    Content = """
+Traductions en français de manuels classiques chinois des arts martiaux
+(taiji quan, xingyi, bagua, armes traditionnelles), réalisées à partir des
+textes originaux chinois, aujourd'hui dans le domaine public.
+"""
+
+  [params.assets]
+    disableHLJS = true
+
+  [params.label]
+    text = "Classiques des arts martiaux chinois"
+    iconHeight = 35
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
