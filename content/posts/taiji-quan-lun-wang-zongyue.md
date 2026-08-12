@@ -163,7 +163,3 @@ Traduction nouvelle réalisée directement à partir du texte chinois original.
 *Source du texte chinois : recueil de Li Yiyu, 郝和珍藏 (1881). Texte dans le domaine
 public. Traduction française : nouvelle traduction réalisée à partir de l'original
 chinois pour ce site.*
-
----
-
-{{< support >}}
