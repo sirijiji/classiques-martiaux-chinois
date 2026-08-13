@@ -124,6 +124,10 @@ body {
    ============================================================ */
 
 @media (max-width: 768px) {
+  .header {
+    padding-top: 14px;
+    padding-bottom: 6px;
+  }
   .logo {
     flex-wrap: nowrap;
     align-items: center;
