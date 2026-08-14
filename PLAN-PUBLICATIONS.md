@@ -11,7 +11,7 @@ après chaque publication (le cron le fait automatiquement).
 
 ## File d'attente (du plus ancien au plus récent)
 
-  1. - [ ] **2011-02-23** [dragon-shape-sword-2](https://brennantranslation.wordpress.com/2011/02/23/dragon-shape-sword-2/)
+  1. - [x] **2011-02-23** [dragon-shape-sword-2](https://brennantranslation.wordpress.com/2011/02/23/dragon-shape-sword-2/) (publié le 2026-08-14)
   2. - [ ] **2011-03-30** [lian-bu-quan](https://brennantranslation.wordpress.com/2011/03/30/lian-bu-quan/)
   3. - [ ] **2011-07-11** [taiji-two-person-sparring-set-taiji-san-shou-dui-da](https://brennantranslation.wordpress.com/2011/07/11/taiji-two-person-sparring-set-taiji-san-shou-dui-da/)
   4. - [ ] **2011-11-24** [methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa](https://brennantranslation.wordpress.com/2011/11/24/methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa/)
