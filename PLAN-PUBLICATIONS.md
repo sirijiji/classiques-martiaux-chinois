@@ -13,7 +13,7 @@ après chaque publication (le cron le fait automatiquement).
 
   1. - [x] **2011-02-23** [dragon-shape-sword-2](https://brennantranslation.wordpress.com/2011/02/23/dragon-shape-sword-2/) (publié le 2026-08-14)
   2. - [x] **2011-03-30** [lian-bu-quan](https://brennantranslation.wordpress.com/2011/03/30/lian-bu-quan/) (publié le 2026-08-15)
-  3. - [ ] **2011-07-11** [taiji-two-person-sparring-set-taiji-san-shou-dui-da](https://brennantranslation.wordpress.com/2011/07/11/taiji-two-person-sparring-set-taiji-san-shou-dui-da/)
+  3. - [x] **2011-07-11** [taiji-two-person-sparring-set-taiji-san-shou-dui-da](https://brennantranslation.wordpress.com/2011/07/11/taiji-two-person-sparring-set-taiji-san-shou-dui-da/) (publié le 2026-08-16)
   4. - [ ] **2011-11-24** [methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa](https://brennantranslation.wordpress.com/2011/11/24/methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa/)
   5. - [ ] **2012-01-09** [the-ten-hand-sets-of-northern-shaolin](https://brennantranslation.wordpress.com/2012/01/09/the-ten-hand-sets-of-northern-shaolin/)
   6. - [ ] **2012-03-21** [the-art-of-taiji-boxing-taiji-quan-shu](https://brennantranslation.wordpress.com/2012/03/21/the-art-of-taiji-boxing-taiji-quan-shu/)
