@@ -14,9 +14,9 @@ après chaque publication (le cron le fait automatiquement).
   1. - [x] **2011-02-23** [dragon-shape-sword-2](https://brennantranslation.wordpress.com/2011/02/23/dragon-shape-sword-2/) (publié le 2026-08-14)
   2. - [x] **2011-03-30** [lian-bu-quan](https://brennantranslation.wordpress.com/2011/03/30/lian-bu-quan/) (publié le 2026-08-15)
   3. - [x] **2011-07-11** [taiji-two-person-sparring-set-taiji-san-shou-dui-da](https://brennantranslation.wordpress.com/2011/07/11/taiji-two-person-sparring-set-taiji-san-shou-dui-da/) (publié le 2026-08-16)
-  4. - [ ] **2011-11-24** [methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa](https://brennantranslation.wordpress.com/2011/11/24/methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa/)
-  5. - [ ] **2012-01-09** [the-ten-hand-sets-of-northern-shaolin](https://brennantranslation.wordpress.com/2012/01/09/the-ten-hand-sets-of-northern-shaolin/)
-  6. - [ ] **2012-03-21** [the-art-of-taiji-boxing-taiji-quan-shu](https://brennantranslation.wordpress.com/2012/03/21/the-art-of-taiji-boxing-taiji-quan-shu/)
+  4. - [ ] **2011-11-24** [methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa](https://brennantranslation.wordpress.com/2011/11/24/methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa/) — *écarté : ouvrage complet d'env. 29 500 caractères chinois, trop long (limite ~15 000)*
+  5. - [ ] **2012-01-09** [the-ten-hand-sets-of-northern-shaolin](https://brennantranslation.wordpress.com/2012/01/09/the-ten-hand-sets-of-northern-shaolin/) — *écarté : documents manuscrits d'env. 1960, pas dans le domaine public (ni classiques)*
+  6. - [x] **2012-03-21** [the-art-of-taiji-boxing-taiji-quan-shu](https://brennantranslation.wordpress.com/2012/03/21/the-art-of-taiji-boxing-taiji-quan-shu/) (publié le 2026-08-17)
   7. - [ ] **2012-05-08** [wu-jianquans-taiji](https://brennantranslation.wordpress.com/2012/05/08/wu-jianquans-taiji/)
   8. - [ ] **2012-08-27** [the-taiji-manual-of-xu-yusheng](https://brennantranslation.wordpress.com/2012/08/27/the-taiji-manual-of-xu-yusheng/)
   9. - [ ] **2012-09-29** [the-xingyi-manual-of-liu-dianchen](https://brennantranslation.wordpress.com/2012/09/29/the-xingyi-manual-of-liu-dianchen/)
