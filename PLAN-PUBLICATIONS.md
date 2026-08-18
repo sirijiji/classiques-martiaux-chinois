@@ -17,8 +17,8 @@ après chaque publication (le cron le fait automatiquement).
   4. - [ ] **2011-11-24** [methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa](https://brennantranslation.wordpress.com/2011/11/24/methods-of-applying-taiji-boxing-taiji-quan-shiyong-fa/) — *écarté : ouvrage complet d'env. 29 500 caractères chinois, trop long (limite ~15 000)*
   5. - [ ] **2012-01-09** [the-ten-hand-sets-of-northern-shaolin](https://brennantranslation.wordpress.com/2012/01/09/the-ten-hand-sets-of-northern-shaolin/) — *écarté : documents manuscrits d'env. 1960, pas dans le domaine public (ni classiques)*
   6. - [x] **2012-03-21** [the-art-of-taiji-boxing-taiji-quan-shu](https://brennantranslation.wordpress.com/2012/03/21/the-art-of-taiji-boxing-taiji-quan-shu/) (publié le 2026-08-17)
-  7. - [ ] **2012-05-08** [wu-jianquans-taiji](https://brennantranslation.wordpress.com/2012/05/08/wu-jianquans-taiji/)
-  8. - [ ] **2012-08-27** [the-taiji-manual-of-xu-yusheng](https://brennantranslation.wordpress.com/2012/08/27/the-taiji-manual-of-xu-yusheng/)
+  7. - [ ] **2012-05-08** [wu-jianquans-taiji](https://brennantranslation.wordpress.com/2012/05/08/wu-jianquans-taiji/) — *écarté : ouvrage de 1935 (吳鑑泉氏的太極拳) co-écrit par Chen Zhenmin et Ma Yueliang (mort en 1998) — pas dans le domaine public (vie + 50 ans)*
+  8. - [x] **2012-08-27** [the-taiji-manual-of-xu-yusheng](https://brennantranslation.wordpress.com/2012/08/27/the-taiji-manual-of-xu-yusheng/) (publié le 2026-08-18 — 1ʳᵉ partie « théorie » traduite ; 2ᵉ partie postures omise pour longueur)
   9. - [ ] **2012-09-29** [the-xingyi-manual-of-liu-dianchen](https://brennantranslation.wordpress.com/2012/09/29/the-xingyi-manual-of-liu-dianchen/)
  10. - [ ] **2012-10-27** [answering-questions-about-taiji-taiji-da-wen](https://brennantranslation.wordpress.com/2012/10/27/answering-questions-about-taiji-taiji-da-wen/)
  11. - [ ] **2012-11-30** [yang-style-taiji-saber](https://brennantranslation.wordpress.com/2012/11/30/yang-style-taiji-saber/)
