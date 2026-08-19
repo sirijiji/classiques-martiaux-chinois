@@ -19,7 +19,7 @@ après chaque publication (le cron le fait automatiquement).
   6. - [x] **2012-03-21** [the-art-of-taiji-boxing-taiji-quan-shu](https://brennantranslation.wordpress.com/2012/03/21/the-art-of-taiji-boxing-taiji-quan-shu/) (publié le 2026-08-17)
   7. - [ ] **2012-05-08** [wu-jianquans-taiji](https://brennantranslation.wordpress.com/2012/05/08/wu-jianquans-taiji/) — *écarté : ouvrage de 1935 (吳鑑泉氏的太極拳) co-écrit par Chen Zhenmin et Ma Yueliang (mort en 1998) — pas dans le domaine public (vie + 50 ans)*
   8. - [x] **2012-08-27** [the-taiji-manual-of-xu-yusheng](https://brennantranslation.wordpress.com/2012/08/27/the-taiji-manual-of-xu-yusheng/) (publié le 2026-08-18 — 1ʳᵉ partie « théorie » traduite ; 2ᵉ partie postures omise pour longueur)
-  9. - [ ] **2012-09-29** [the-xingyi-manual-of-liu-dianchen](https://brennantranslation.wordpress.com/2012/09/29/the-xingyi-manual-of-liu-dianchen/)
+  9. - [x] **2012-09-29** [the-xingyi-manual-of-liu-dianchen](https://brennantranslation.wordpress.com/2012/09/29/the-xingyi-manual-of-liu-dianchen/) (publié le 2026-08-19 — 1ᵉʳ volume « théorie » traduit ; 2ᵉ volume postures/armes omis pour longueur)
  10. - [ ] **2012-10-27** [answering-questions-about-taiji-taiji-da-wen](https://brennantranslation.wordpress.com/2012/10/27/answering-questions-about-taiji-taiji-da-wen/)
  11. - [ ] **2012-11-30** [yang-style-taiji-saber](https://brennantranslation.wordpress.com/2012/11/30/yang-style-taiji-saber/)
  12. - [ ] **2012-12-22** [yang-style-taiji-sword](https://brennantranslation.wordpress.com/2012/12/22/yang-style-taiji-sword/)
